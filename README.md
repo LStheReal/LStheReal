@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @LStheReal
-- 👀 I’m interested in learning how to code and soccer
+- 👀 I’m here to lear how to code 
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on nothing special
-- 📫 How to reach me louise.schueleATgmail.com
-- 😄 Pronouns: she
-- ⚡ Fun fact: I hate scool and its system
+- 💡 The best way to lean code is on freeCodeCamp.org
+
+
+
 
 <!---
 LStheReal/LStheReal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
