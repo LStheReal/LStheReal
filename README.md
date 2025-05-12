@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LStheReal
-- 👀 I’m here to lear how to code 
+- 👀 I’m here to learn how to code 
 - 🌱 I’m currently learning JavaScript
 - 💡 The best way to lean code is on freeCodeCamp.org
+- I like trying out AI tools as Cursor or Replit
 
 
 
